@@ -1,4 +1,4 @@
-# re:Invent ALM Bootcamp Sample
+# re:suck it
 
 ![](https://s3.amazonaws.com/devops-bootcamp/img/alm-demo.png)
 
